@@ -10,3 +10,7 @@
 	path = stb
 	url = ../../cpp-port/stb
 	branch = main
+[submodule "sqlite"]
+	path = sqlite
+	url = ../../cpp-port/sqlite
+	branch = main
