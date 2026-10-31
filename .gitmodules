@@ -14,3 +14,7 @@
 	path = sqlite
 	url = ../../cpp-port/sqlite
 	branch = main
+[submodule "mpg123"]
+	path = mpg123
+	url = ../../cpp-port/mpg123
+	branch = main
